@@ -6,7 +6,7 @@ A modern calculator application developed using **React with Next.js**, featurin
 
 ## 🌐 Live Demo
 
-👉 Add your deployed link here (e.g., Vercel)
+https://react-calculator-kohl-six.vercel.app/
 
 ---
 
@@ -63,6 +63,7 @@ npm install
 
 ```
 npm run dev
+
 ```
 
 ---
